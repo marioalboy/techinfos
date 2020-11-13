@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-13T12:06:55.921Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="axUiFKUIRsH_AlK71wBN" version="13.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-13T12:08:38.289Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="M_-3dXbfU3jFoGic3WNO" version="13.9.6" type="github">
   <diagram id="dHLoIadeHOPKv45P_C7i" name="Page-1">
     <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,17 +7,17 @@
         <mxCell id="aoHS3MH-HQ4TEOi-IUvl-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4nNFg5GJuq_Xe3lgWuRm-1" target="aoHS3MH-HQ4TEOi-IUvl-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aoHS3MH-HQ4TEOi-IUvl-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="aoHS3MH-HQ4TEOi-IUvl-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="170" as="targetPoint" />
-            <mxPoint x="440" y="300" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="aoHS3MH-HQ4TEOi-IUvl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4nNFg5GJuq_Xe3lgWuRm-1" target="aoHS3MH-HQ4TEOi-IUvl-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="cuVH64ui43p0XPPLOsZw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4nNFg5GJuq_Xe3lgWuRm-1" target="cuVH64ui43p0XPPLOsZw-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cuVH64ui43p0XPPLOsZw-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4nNFg5GJuq_Xe3lgWuRm-1" target="aoHS3MH-HQ4TEOi-IUvl-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4nNFg5GJuq_Xe3lgWuRm-1" value="Github" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <UserObject label="https://docs.github.com/en" link="https://docs.github.com/en" id="aoHS3MH-HQ4TEOi-IUvl-1">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -25,13 +25,19 @@
           </mxCell>
         </UserObject>
         <mxCell id="aoHS3MH-HQ4TEOi-IUvl-4" value="https://lab.github.com/" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="500" y="170" width="180" height="60" as="geometry" />
+          <mxGeometry x="580" y="170" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aoHS3MH-HQ4TEOi-IUvl-6" value="InnerSource Program" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="70" width="160" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cuVH64ui43p0XPPLOsZw-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cuVH64ui43p0XPPLOsZw-1" target="cuVH64ui43p0XPPLOsZw-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cuVH64ui43p0XPPLOsZw-1" value="https://developer.github.com/apps/differences-between-apps/" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="470" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cuVH64ui43p0XPPLOsZw-3" value="https://probot.github.io/" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="555" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
