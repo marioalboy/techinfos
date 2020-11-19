@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-19T11:44:41.874Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="6d9gOmIgqriWu6qmDCGc" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-19T11:46:04.605Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="ZfZQvuYNafWGt1mDEscI" version="13.9.9" type="github">
   <diagram id="DgriANRo6SjlQrBQB8I8" name="Page-1">
     <mxGraphModel dx="1278" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -135,20 +135,20 @@
         <mxCell id="86dVdtpe8MZ_GBPZOqXo-58" value="Sistema Web gera as etiquetas" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="421.5" y="1252.5" width="130.01" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="86dVdtpe8MZ_GBPZOqXo-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="86dVdtpe8MZ_GBPZOqXo-60" target="86dVdtpe8MZ_GBPZOqXo-62">
+        <mxCell id="86dVdtpe8MZ_GBPZOqXo-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="86dVdtpe8MZ_GBPZOqXo-60" target="86dVdtpe8MZ_GBPZOqXo-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="86dVdtpe8MZ_GBPZOqXo-60" value="Gera a NF (invoice)" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="636.515" y="1255" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="86dVdtpe8MZ_GBPZOqXo-62" value="Finaliza o processo" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#FFFFCC;" vertex="1" parent="1">
-          <mxGeometry x="636.515" y="1395" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="86dVdtpe8MZ_GBPZOqXo-64" value="&lt;span&gt;Integração com o DOH&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="224.49" y="1385" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="86dVdtpe8MZ_GBPZOqXo-66" value="&lt;div&gt;&lt;b&gt;Validações:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Controle de Acesso&lt;/div&gt;&lt;div&gt;Controle de Estoque&lt;/div&gt;&lt;div&gt;Gera alerta em caso de divergência&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="56.00000000000001" y="1237" width="137.5" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="86dVdtpe8MZ_GBPZOqXo-68" value="&lt;span&gt;Finaliza o processo&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="636.515" y="1385" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
