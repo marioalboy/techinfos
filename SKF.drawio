@@ -1,33 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2020-11-19T11:11:23.530Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="SgnpwHj_IJ4yCx5P2zXw" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-19T11:22:10.451Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="h-LNXA_JF_nBJmRftxnw" version="13.9.9" type="github">
   <diagram id="DgriANRo6SjlQrBQB8I8" name="Page-1">
     <mxGraphModel dx="1022" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="86dVdtpe8MZ_GBPZOqXo-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="86dVdtpe8MZ_GBPZOqXo-2" target="86dVdtpe8MZ_GBPZOqXo-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="86dVdtpe8MZ_GBPZOqXo-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="86dVdtpe8MZ_GBPZOqXo-2" target="86dVdtpe8MZ_GBPZOqXo-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="242.5" y="90" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="86dVdtpe8MZ_GBPZOqXo-2" value="Operador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="120" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="86dVdtpe8MZ_GBPZOqXo-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="86dVdtpe8MZ_GBPZOqXo-6" target="86dVdtpe8MZ_GBPZOqXo-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="86dVdtpe8MZ_GBPZOqXo-6" value="Gera a cotação no EcoCalc" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="120" width="170" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="86dVdtpe8MZ_GBPZOqXo-12" value="Orçamento aprovado?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="240" width="110" height="110" as="geometry" />
+          <mxGeometry x="387.5" y="245" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="86dVdtpe8MZ_GBPZOqXo-14" value="Processo finalizado e pedido encerrado" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="265" width="120" height="60" as="geometry" />
+          <mxGeometry x="577.5" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="86dVdtpe8MZ_GBPZOqXo-16" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="86dVdtpe8MZ_GBPZOqXo-12" target="86dVdtpe8MZ_GBPZOqXo-14">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="290" y="300" as="sourcePoint" />
-            <mxPoint x="390" y="300" as="targetPoint" />
+            <mxPoint x="487.5" y="305" as="sourcePoint" />
+            <mxPoint x="587.5" y="305" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="350" y="295" />
+              <mxPoint x="547.5" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -41,12 +37,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="86dVdtpe8MZ_GBPZOqXo-18" value="Operador faz o input dos dados no sistema Web" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="162.5" y="410" width="165" height="80" as="geometry" />
+          <mxGeometry x="360" y="415" width="165" height="80" as="geometry" />
         </mxCell>
         <mxCell id="86dVdtpe8MZ_GBPZOqXo-19" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="86dVdtpe8MZ_GBPZOqXo-12" target="86dVdtpe8MZ_GBPZOqXo-18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="305" as="sourcePoint" />
-            <mxPoint x="390" y="305" as="targetPoint" />
+            <mxPoint x="507.5" y="310" as="sourcePoint" />
+            <mxPoint x="587.5" y="310" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -57,10 +53,46 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="86dVdtpe8MZ_GBPZOqXo-22" value="Sistema Web faz a validação" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="185" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="382.5" y="545" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="86dVdtpe8MZ_GBPZOqXo-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="86dVdtpe8MZ_GBPZOqXo-24" target="86dVdtpe8MZ_GBPZOqXo-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="86dVdtpe8MZ_GBPZOqXo-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="86dVdtpe8MZ_GBPZOqXo-24" target="86dVdtpe8MZ_GBPZOqXo-41">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="86dVdtpe8MZ_GBPZOqXo-24" value="Sistema Web gera a ordem de produção" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="185" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="382.5" y="655" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="86dVdtpe8MZ_GBPZOqXo-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="86dVdtpe8MZ_GBPZOqXo-26" target="86dVdtpe8MZ_GBPZOqXo-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="86dVdtpe8MZ_GBPZOqXo-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="86dVdtpe8MZ_GBPZOqXo-26" target="86dVdtpe8MZ_GBPZOqXo-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="86dVdtpe8MZ_GBPZOqXo-26" value="Sistema Web faz a baixa da peça no estoque" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="382.5" y="755" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="86dVdtpe8MZ_GBPZOqXo-28" value="Sistema Web libera a peça para a produção" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="382.5" y="865" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="86dVdtpe8MZ_GBPZOqXo-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="86dVdtpe8MZ_GBPZOqXo-34" target="86dVdtpe8MZ_GBPZOqXo-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="86dVdtpe8MZ_GBPZOqXo-34" value="Cotação" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="115" width="105" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="86dVdtpe8MZ_GBPZOqXo-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="86dVdtpe8MZ_GBPZOqXo-38" target="86dVdtpe8MZ_GBPZOqXo-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="86dVdtpe8MZ_GBPZOqXo-38" value="&lt;span&gt;Gera a cotação no EcoCalc&lt;/span&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="120" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="86dVdtpe8MZ_GBPZOqXo-41" value="&lt;span&gt;Integração com o COH&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="582.5" y="645" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="86dVdtpe8MZ_GBPZOqXo-43" value="&lt;span&gt;Integração com o DOH&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="582.5" y="745" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
