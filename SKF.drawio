@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-19T13:02:46.743Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="m7vHoNCgZ7dhhmEFqikD" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-19T13:28:45.707Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="rIEMqj9v4AfiL__NmMq8" version="13.9.9" type="github">
   <diagram id="DgriANRo6SjlQrBQB8I8" name="Page-1">
     <mxGraphModel dx="982" dy="382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -172,10 +172,10 @@
           <mxGeometry x="616.26" y="1450" width="140.25" height="70" as="geometry" />
         </mxCell>
         <mxCell id="86dVdtpe8MZ_GBPZOqXo-82" value="Sistema Web gera as etiquetas" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#FFFFCC;" vertex="1" parent="1">
-          <mxGeometry x="220" y="750" width="130.01" height="65" as="geometry" />
+          <mxGeometry x="227.49" y="752.5" width="130.01" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="86dVdtpe8MZ_GBPZOqXo-84" value="&lt;b&gt;o estoque usa a etiqueta para saber a peça que ele pega no estoque&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="800" width="137.5" height="96" as="geometry" />
+        <mxCell id="86dVdtpe8MZ_GBPZOqXo-84" value="&lt;b&gt;o estoque usa a etiqueta para saber a peça que ele pega no estoque, o estoquista escolhe o material a ser usado&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="800" width="137.5" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
