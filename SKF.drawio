@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-19T11:46:04.605Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="ZfZQvuYNafWGt1mDEscI" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-19T11:46:58.194Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="aADk47M2EODjJV_AlGZa" version="13.9.9" type="github">
   <diagram id="DgriANRo6SjlQrBQB8I8" name="Page-1">
     <mxGraphModel dx="1278" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,7 +33,7 @@
         <mxCell id="86dVdtpe8MZ_GBPZOqXo-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="86dVdtpe8MZ_GBPZOqXo-18" target="86dVdtpe8MZ_GBPZOqXo-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="86dVdtpe8MZ_GBPZOqXo-18" value="Operador faz o input dos dados no sistema Web" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#FFFFCC;" vertex="1" parent="1">
+        <mxCell id="86dVdtpe8MZ_GBPZOqXo-18" value="Planejador faz o input dos dados no sistema Web" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="433.5" y="415" width="165" height="80" as="geometry" />
         </mxCell>
         <mxCell id="86dVdtpe8MZ_GBPZOqXo-19" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="86dVdtpe8MZ_GBPZOqXo-12" target="86dVdtpe8MZ_GBPZOqXo-18">
