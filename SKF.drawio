@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-19T11:22:50.981Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="73BYjEb19-wKzQpdXqRg" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-19T11:32:13.363Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="M1u4DO58pcUIZHdm77vR" version="13.9.9" type="github">
   <diagram id="DgriANRo6SjlQrBQB8I8" name="Page-1">
-    <mxGraphModel dx="1022" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1278" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,9 +28,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="86dVdtpe8MZ_GBPZOqXo-17" value="Não" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="86dVdtpe8MZ_GBPZOqXo-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="86dVdtpe8MZ_GBPZOqXo-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="86dVdtpe8MZ_GBPZOqXo-18" target="86dVdtpe8MZ_GBPZOqXo-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="86dVdtpe8MZ_GBPZOqXo-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="86dVdtpe8MZ_GBPZOqXo-18" target="86dVdtpe8MZ_GBPZOqXo-22">
@@ -93,6 +90,12 @@
         </mxCell>
         <mxCell id="86dVdtpe8MZ_GBPZOqXo-43" value="&lt;span&gt;Integração com o DOH&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="582.5" y="745" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="86dVdtpe8MZ_GBPZOqXo-46" value="&lt;div&gt;&lt;b&gt;Niveis e hierarquias&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Estoque&lt;/div&gt;&lt;div&gt;Operador&lt;/div&gt;&lt;div&gt;Planejador&lt;/div&gt;&lt;div&gt;Administrador (acesso global)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="537" width="150" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="86dVdtpe8MZ_GBPZOqXo-47" value="&lt;div&gt;&lt;b&gt;Validações:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Controle de Acesso&lt;/div&gt;&lt;div&gt;Código da material&lt;/div&gt;&lt;div&gt;Disponibilidade de estoque&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="512.5" y="527" width="137.5" height="96" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
