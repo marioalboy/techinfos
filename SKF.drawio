@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-19T11:52:41.889Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="F37kWJAlQLQBsO-UFj10" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-19T11:53:54.318Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="VXT3ksajhzdbrAtsHTLA" version="13.9.9" type="github">
   <diagram id="DgriANRo6SjlQrBQB8I8" name="Page-1">
     <mxGraphModel dx="1278" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -74,7 +74,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="86dVdtpe8MZ_GBPZOqXo-28" value="Sistema Web libera a peça para a produção" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" vertex="1" parent="1">
-          <mxGeometry x="456" y="865" width="120" height="60" as="geometry" />
+          <mxGeometry x="456" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="86dVdtpe8MZ_GBPZOqXo-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="86dVdtpe8MZ_GBPZOqXo-34" target="86dVdtpe8MZ_GBPZOqXo-12">
           <mxGeometry relative="1" as="geometry" />
@@ -102,23 +102,23 @@
         </mxCell>
         <mxCell id="86dVdtpe8MZ_GBPZOqXo-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="86dVdtpe8MZ_GBPZOqXo-48" target="86dVdtpe8MZ_GBPZOqXo-55">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="264.5" y="1130" as="targetPoint" />
+            <mxPoint x="264.5" y="1095" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="86dVdtpe8MZ_GBPZOqXo-48" value="Operador fabrica o produto e volta a peça para o estoque" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="193.5" y="990" width="142" height="60" as="geometry" />
+          <mxGeometry x="193.5" y="955" width="142" height="60" as="geometry" />
         </mxCell>
         <mxCell id="86dVdtpe8MZ_GBPZOqXo-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="86dVdtpe8MZ_GBPZOqXo-50" target="86dVdtpe8MZ_GBPZOqXo-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="86dVdtpe8MZ_GBPZOqXo-50" value="Estoque valida a liberação e entrega a peça ao operador" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#FFFFCC;" vertex="1" parent="1">
-          <mxGeometry x="447.25" y="990" width="137.5" height="60" as="geometry" />
+          <mxGeometry x="447.25" y="955" width="137.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="86dVdtpe8MZ_GBPZOqXo-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="86dVdtpe8MZ_GBPZOqXo-55" target="86dVdtpe8MZ_GBPZOqXo-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="86dVdtpe8MZ_GBPZOqXo-55" value="Estoque valida e devolve a peça ao estoque" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#FFFFCC;" vertex="1" parent="1">
-          <mxGeometry x="200.63" y="1130" width="127.75" height="60" as="geometry" />
+          <mxGeometry x="200.63" y="1055" width="127.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="86dVdtpe8MZ_GBPZOqXo-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="86dVdtpe8MZ_GBPZOqXo-56" target="86dVdtpe8MZ_GBPZOqXo-58">
           <mxGeometry relative="1" as="geometry" />
@@ -127,28 +127,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="86dVdtpe8MZ_GBPZOqXo-56" value="Sistema Web faz a adição do material&amp;nbsp; em estoque e valida se voltou conforme esperado, e atualiza o estoque" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" vertex="1" parent="1">
-          <mxGeometry x="195" y="1240" width="138.99" height="90" as="geometry" />
+          <mxGeometry x="195" y="1165" width="138.99" height="90" as="geometry" />
         </mxCell>
         <mxCell id="86dVdtpe8MZ_GBPZOqXo-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="86dVdtpe8MZ_GBPZOqXo-58" target="86dVdtpe8MZ_GBPZOqXo-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="86dVdtpe8MZ_GBPZOqXo-58" value="Sistema Web gera as etiquetas" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#FFFFCC;" vertex="1" parent="1">
-          <mxGeometry x="421.5" y="1252.5" width="130.01" height="65" as="geometry" />
+          <mxGeometry x="421.5" y="1177.5" width="130.01" height="65" as="geometry" />
         </mxCell>
         <mxCell id="86dVdtpe8MZ_GBPZOqXo-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="86dVdtpe8MZ_GBPZOqXo-60" target="86dVdtpe8MZ_GBPZOqXo-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="86dVdtpe8MZ_GBPZOqXo-60" value="Gera a NF (invoice)" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#FFFFCC;" vertex="1" parent="1">
-          <mxGeometry x="636.515" y="1255" width="120" height="60" as="geometry" />
+          <mxGeometry x="636.515" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="86dVdtpe8MZ_GBPZOqXo-64" value="&lt;span&gt;Integração com o DOH&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="224.49" y="1385" width="80" height="80" as="geometry" />
+          <mxGeometry x="224.51000000000002" y="1300" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="86dVdtpe8MZ_GBPZOqXo-66" value="&lt;div&gt;&lt;b&gt;Validações:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Controle de Acesso&lt;/div&gt;&lt;div&gt;Controle de Estoque&lt;/div&gt;&lt;div&gt;Gera alerta em caso de divergência&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="56.00000000000001" y="1237" width="137.5" height="96" as="geometry" />
+          <mxGeometry x="56.00000000000001" y="1162" width="137.5" height="96" as="geometry" />
         </mxCell>
         <mxCell id="86dVdtpe8MZ_GBPZOqXo-68" value="&lt;span&gt;Finaliza o processo&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#FFFFCC;" vertex="1" parent="1">
-          <mxGeometry x="636.515" y="1385" width="120" height="80" as="geometry" />
+          <mxGeometry x="636.515" y="1290" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="86dVdtpe8MZ_GBPZOqXo-71" value="&lt;h1&gt;SKF - Controle de Estoque&amp;nbsp;&lt;/h1&gt;&lt;p&gt;Sistema Web para inserir os dados gerados pelo EcoCalc nos sistemas DOH e COH com o objetivo de fazer o controle de estoque e ordem de produção das peças.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="10" width="580" height="120" as="geometry" />
