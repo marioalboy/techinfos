@@ -1,0 +1,494 @@
+<mxfile host="app.diagrams.net" modified="2021-04-29T20:14:34.179Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="8iEFMxpY_mfi3WrB902I" version="14.5.4" type="github">
+  <diagram id="roDHXFFowf3PpoajVjik" name="Page-1">
+    <mxGraphModel dx="6390" dy="2645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-148" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="2562" y="436.48" width="1120" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-149" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="2792" y="471.48" width="390" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-132" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="2562" y="46.480000000000004" width="1120" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-133" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="2742" y="81.48" width="440" height="305" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-69" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="820" y="796.48" width="1120" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-67" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="840" y="831.48" width="451" height="285" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PSHvP1Z2pyR7IWHXnIYe-2" target="PSHvP1Z2pyR7IWHXnIYe-81" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PSHvP1Z2pyR7IWHXnIYe-2" target="PSHvP1Z2pyR7IWHXnIYe-69" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BvnFZBVV5TkxMTG0HGcA-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PSHvP1Z2pyR7IWHXnIYe-2" target="PSHvP1Z2pyR7IWHXnIYe-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="562" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BvnFZBVV5TkxMTG0HGcA-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PSHvP1Z2pyR7IWHXnIYe-2" target="PSHvP1Z2pyR7IWHXnIYe-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="ExpressRoute Circuits" lucidchartObjectId="rRRxShrjoOPZ" id="PSHvP1Z2pyR7IWHXnIYe-2">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/Express_Route.svg;whiteSpace=wrap;fontSize=13;spacing=0;strokeOpacity=100;fillColor=#68217a;strokeWidth=1.5;" parent="1" vertex="1">
+            <mxGeometry x="490" y="1126.48" width="145" height="88.61" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="uSRxXzz2~Y7R" id="PSHvP1Z2pyR7IWHXnIYe-3">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/b8b497b7-2d40-4230-9ea2-1f322d1f7a69/content;imageAspect=0;" parent="1" vertex="1">
+            <mxGeometry x="160" y="931.98" width="255" height="49" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="FSRxvxp~Yti4" id="PSHvP1Z2pyR7IWHXnIYe-4">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#666666;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;;endArrow=block;endFill=1;;exitX=0.839;exitY=1;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;" parent="1" source="PSHvP1Z2pyR7IWHXnIYe-3" target="PSHvP1Z2pyR7IWHXnIYe-2" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-5" value="Link Privado" style="text;html=1;resizable=0;labelBackgroundColor=#ffffff;align=center;verticalAlign=middle;fontColor=#000000;;fontSize=13;" parent="PSHvP1Z2pyR7IWHXnIYe-4" vertex="1">
+          <mxGeometry x="-0.14727707213943486" relative="1" as="geometry">
+            <mxPoint x="-2.48" y="-45.93" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Active Directory" lucidchartObjectId="uTRxvJ6UNbEj" id="PSHvP1Z2pyR7IWHXnIYe-6">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/Active_Directory.svg;whiteSpace=wrap;fontSize=13;spacing=0;strokeOpacity=100;fillColor=#59B4D9;strokeWidth=1.5;" parent="1" vertex="1">
+            <mxGeometry x="1480" y="602.31" width="90" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="DNS Private Zones" lucidchartObjectId="OURx175.Mmyq" id="PSHvP1Z2pyR7IWHXnIYe-8">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/DNS_Private_Zones.svg;whiteSpace=wrap;fontSize=13;spacing=0;strokeOpacity=100;fillColor=#0072C6;strokeWidth=1.5;" parent="1" vertex="1">
+            <mxGeometry x="510" y="1347.1" width="105" height="105" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Load Balancers" lucidchartObjectId=".3RxnH8H_HWi" id="PSHvP1Z2pyR7IWHXnIYe-14">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/Load_Balancer_feature.svg;whiteSpace=wrap;fontSize=13;spacing=0;strokeOpacity=100;fillColor=#7FBA00;strokeWidth=1.5;" parent="1" vertex="1">
+            <mxGeometry x="1013" y="911.48" width="90" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="App Services" lucidchartObjectId="n4RxPMZDe.eA" id="PSHvP1Z2pyR7IWHXnIYe-15">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/App_Services.svg;whiteSpace=wrap;fontSize=13;spacing=0;strokeOpacity=100;fillColor=#59b4d9;strokeWidth=1.5;" parent="1" vertex="1">
+            <mxGeometry x="1133" y="917.48" width="90" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="nzSx0cT5nNfU" id="PSHvP1Z2pyR7IWHXnIYe-16">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#666666;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;;endArrow=block;endFill=1;;exitX=0.996;exitY=0.5;exitPerimeter=0;entryX=-0.002;entryY=0.5;entryPerimeter=0;" parent="1" source="PSHvP1Z2pyR7IWHXnIYe-23" target="PSHvP1Z2pyR7IWHXnIYe-20" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="1510" y="974.48" />
+                <mxPoint x="1510" y="904.48" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="1rSxI.pHsTpa" id="PSHvP1Z2pyR7IWHXnIYe-17">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#666666;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;;endArrow=block;endFill=1;;entryX=0.004;entryY=0.5;entryPerimeter=0;" parent="1" source="PSHvP1Z2pyR7IWHXnIYe-67" target="PSHvP1Z2pyR7IWHXnIYe-23" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+              <mxPoint x="1316.5700000000002" y="978.98" as="sourcePoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-19" value="" style="group;dropTarget=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1584" y="821.48" width="315" height="165" as="geometry" />
+        </mxCell>
+        <UserObject label="" lucidchartObjectId="-mSxpDrQZZVA" id="PSHvP1Z2pyR7IWHXnIYe-20">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;whiteSpace=wrap;fontSize=13;spacing=0;strokeColor=#82b366;strokeOpacity=100;fillOpacity=100;fillColor=#d5e8d4;strokeWidth=1.5;" parent="PSHvP1Z2pyR7IWHXnIYe-19" vertex="1">
+            <mxGeometry width="315" height="165" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Azure Function - API" lucidchartObjectId="OASx7N48mzOu" id="PSHvP1Z2pyR7IWHXnIYe-23">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/Functions.svg;whiteSpace=wrap;fontSize=13;spacing=0;strokeOpacity=100;fillColor=#FCD116;strokeWidth=1.5;" parent="1" vertex="1">
+            <mxGeometry x="1371" y="932.48" width="90" height="83" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Usuário" lucidchartObjectId="5QSxRVj2VYeq" id="PSHvP1Z2pyR7IWHXnIYe-37">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/Person.svg;whiteSpace=wrap;fontSize=13;spacing=0;strokeOpacity=100;fillColor=#59b4d9;strokeWidth=1.5;" parent="1" vertex="1">
+            <mxGeometry x="2080" y="536.48" width="67" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="DNS Zones" lucidchartObjectId="1SSxTwhLukIB" id="PSHvP1Z2pyR7IWHXnIYe-38">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/DNS.svg;whiteSpace=wrap;fontSize=13;spacing=0;strokeOpacity=100;fillColor=#0072C6;strokeWidth=1.5;" parent="1" vertex="1">
+            <mxGeometry x="2260.5" y="650.48" width="90" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PSHvP1Z2pyR7IWHXnIYe-39" target="PSHvP1Z2pyR7IWHXnIYe-132" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PSHvP1Z2pyR7IWHXnIYe-39" target="PSHvP1Z2pyR7IWHXnIYe-148" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PSHvP1Z2pyR7IWHXnIYe-39" target="PSHvP1Z2pyR7IWHXnIYe-167" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PSHvP1Z2pyR7IWHXnIYe-39" target="PSHvP1Z2pyR7IWHXnIYe-181" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BvnFZBVV5TkxMTG0HGcA-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PSHvP1Z2pyR7IWHXnIYe-39" target="PSHvP1Z2pyR7IWHXnIYe-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2306" y="300" />
+              <mxPoint x="1525" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Internet" lucidchartObjectId="0TSxW7d3FtOt" id="PSHvP1Z2pyR7IWHXnIYe-39">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;verticalLabelPosition=bottom;verticalAlign=top;strokeColor=none;shape=mxgraph.mscae.enterprise.internet;whiteSpace=wrap;fontSize=13;spacing=0;strokeOpacity=100;fillColor=#00188f;strokeWidth=1.5;" parent="1" vertex="1">
+            <mxGeometry x="2244.5" y="385.48" width="122" height="81" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="nUSxDgb3Xirq" id="PSHvP1Z2pyR7IWHXnIYe-40">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#666666;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;;endArrow=block;endFill=1;;exitX=0.515;exitY=1;exitPerimeter=0;entryX=0.517;entryY=0.001;entryPerimeter=0;" parent="1" source="PSHvP1Z2pyR7IWHXnIYe-39" target="PSHvP1Z2pyR7IWHXnIYe-38" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="cVSxKNzc.nTo" id="PSHvP1Z2pyR7IWHXnIYe-41">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#666666;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;;endArrow=block;endFill=1;;exitX=0.5;exitY=0;exitPerimeter=0;entryX=0;entryY=0.727;entryPerimeter=0;" parent="1" source="PSHvP1Z2pyR7IWHXnIYe-37" target="PSHvP1Z2pyR7IWHXnIYe-39" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-146" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PSHvP1Z2pyR7IWHXnIYe-47" target="PSHvP1Z2pyR7IWHXnIYe-133" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Application Gateway" lucidchartObjectId="3JSx4wRks.y-" id="PSHvP1Z2pyR7IWHXnIYe-47">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/Application_Gateway.svg;whiteSpace=wrap;fontSize=13;spacing=0;strokeOpacity=100;fillColor=#7FBA00;strokeWidth=1.5;" parent="1" vertex="1">
+            <mxGeometry x="2602" y="188.98" width="90" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SISGAC - API" lucidchartObjectId="qKSxaKUgcn4g" id="PSHvP1Z2pyR7IWHXnIYe-48">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/App_Services.svg;whiteSpace=wrap;fontSize=13;spacing=0;strokeOpacity=100;fillColor=#59b4d9;strokeWidth=1.5;" parent="1" vertex="1">
+            <mxGeometry x="3023" y="121.48" width="90" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SIRIUS" lucidchartObjectId="9_SxEjn7s3GY" id="PSHvP1Z2pyR7IWHXnIYe-58">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/App_Services.svg;whiteSpace=wrap;fontSize=13;spacing=0;strokeOpacity=100;fillColor=#59b4d9;strokeWidth=1.5;" parent="1" vertex="1">
+            <mxGeometry x="2935" y="498.98" width="90" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-65" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" parent="1" vertex="1">
+          <mxGeometry x="1860" y="1090.24" width="64" height="60.24" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-66" value="Private Endopoint" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://user-images.githubusercontent.com/37974296/113137352-59e74380-921c-11eb-97e4-bcaf90528ae7.png;" parent="1" vertex="1">
+          <mxGeometry x="880" y="905.48" width="102" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-72" value="Redis" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_including_Redis.svg;" parent="1" vertex="1">
+          <mxGeometry x="1630" y="870.79" width="84" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-73" value="SQL MI" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Managed_Instance.svg;" parent="1" vertex="1">
+          <mxGeometry x="1756" y="868.48" width="90" height="88.62" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-79" value="&lt;font style=&quot;font-size: 18px&quot; face=&quot;Tahoma&quot;&gt;&lt;b&gt;Resource Group - Viewer&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1570" y="1136.48" width="276" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-80" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Network_Security_Groups.svg;" parent="1" vertex="1">
+          <mxGeometry x="1600" y="806.48" width="43" height="52.21" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-81" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="820" y="1186.48" width="1120" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-82" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="840" y="1221.48" width="451" height="285" as="geometry" />
+        </mxCell>
+        <UserObject label="Load Balancers" lucidchartObjectId=".3RxnH8H_HWi" id="PSHvP1Z2pyR7IWHXnIYe-83">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/Load_Balancer_feature.svg;whiteSpace=wrap;fontSize=13;spacing=0;strokeOpacity=100;fillColor=#7FBA00;strokeWidth=1.5;" parent="1" vertex="1">
+            <mxGeometry x="1013" y="1301.48" width="90" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="App Services" lucidchartObjectId="n4RxPMZDe.eA" id="PSHvP1Z2pyR7IWHXnIYe-84">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/App_Services.svg;whiteSpace=wrap;fontSize=13;spacing=0;strokeOpacity=100;fillColor=#59b4d9;strokeWidth=1.5;" parent="1" vertex="1">
+            <mxGeometry x="1133" y="1307.48" width="90" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="1rSxI.pHsTpa" id="PSHvP1Z2pyR7IWHXnIYe-86">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#666666;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;;endArrow=block;endFill=1;;" parent="1" source="PSHvP1Z2pyR7IWHXnIYe-82" target="PSHvP1Z2pyR7IWHXnIYe-88" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="1510" y="1364.48" />
+                <mxPoint x="1510" y="1294.48" />
+              </Array>
+              <mxPoint x="1316.5700000000002" y="1368.98" as="sourcePoint" />
+              <mxPoint x="1405.3600000000001" y="1363.98" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-87" value="" style="group;dropTarget=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1584" y="1211.48" width="315" height="165" as="geometry" />
+        </mxCell>
+        <UserObject label="" lucidchartObjectId="-mSxpDrQZZVA" id="PSHvP1Z2pyR7IWHXnIYe-88">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;whiteSpace=wrap;fontSize=13;spacing=0;strokeColor=#82b366;strokeOpacity=100;fillOpacity=100;fillColor=#d5e8d4;strokeWidth=1.5;" parent="PSHvP1Z2pyR7IWHXnIYe-87" vertex="1">
+            <mxGeometry width="315" height="165" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-90" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" parent="1" vertex="1">
+          <mxGeometry x="1860" y="1480.24" width="64" height="60.24" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-91" value="Private Endopoint" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://user-images.githubusercontent.com/37974296/113137352-59e74380-921c-11eb-97e4-bcaf90528ae7.png;" parent="1" vertex="1">
+          <mxGeometry x="880" y="1295.48" width="102" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-92" value="Redis" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_including_Redis.svg;" parent="1" vertex="1">
+          <mxGeometry x="1630" y="1260.79" width="84" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-93" value="SQL MI" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Managed_Instance.svg;" parent="1" vertex="1">
+          <mxGeometry x="1756" y="1258.48" width="90" height="88.62" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-95" value="&lt;font style=&quot;font-size: 18px&quot; face=&quot;Tahoma&quot;&gt;&lt;b&gt;Resource Group - Comunicador&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1550" y="1526.48" width="296" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-96" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Network_Security_Groups.svg;" parent="1" vertex="1">
+          <mxGeometry x="1600" y="1196.48" width="43" height="52.21" as="geometry" />
+        </mxCell>
+        <UserObject label="SISGAC" lucidchartObjectId="5ESxbEhlhgaZ" id="PSHvP1Z2pyR7IWHXnIYe-115">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/App_Services.svg;whiteSpace=wrap;fontSize=13;spacing=0;strokeOpacity=100;fillColor=#59b4d9;strokeWidth=1.5;" parent="1" vertex="1">
+            <mxGeometry x="2842" y="117.31000000000004" width="90" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="API TIMESHEET" lucidchartObjectId="-KSxWp1efTdw" id="PSHvP1Z2pyR7IWHXnIYe-116">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/App_Services.svg;whiteSpace=wrap;fontSize=13;spacing=0;strokeOpacity=100;fillColor=#59b4d9;strokeWidth=1.5;" parent="1" vertex="1">
+            <mxGeometry x="3022" y="246.48" width="90" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="ATENTO API" lucidchartObjectId="XKSxYv31ki9a" id="PSHvP1Z2pyR7IWHXnIYe-117">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/App_Services.svg;whiteSpace=wrap;fontSize=13;spacing=0;strokeOpacity=100;fillColor=#59b4d9;strokeWidth=1.5;" parent="1" vertex="1">
+            <mxGeometry x="2845" y="250.23999999999998" width="90" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="1rSxI.pHsTpa" id="PSHvP1Z2pyR7IWHXnIYe-136">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#666666;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;;endArrow=block;endFill=1;;" parent="1" source="PSHvP1Z2pyR7IWHXnIYe-133" target="PSHvP1Z2pyR7IWHXnIYe-138" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+              <mxPoint x="3058.57" y="228.98" as="sourcePoint" />
+              <mxPoint x="3147.36" y="223.98" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-137" value="" style="group;dropTarget=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="3326" y="71.48" width="315" height="165" as="geometry" />
+        </mxCell>
+        <UserObject label="" lucidchartObjectId="-mSxpDrQZZVA" id="PSHvP1Z2pyR7IWHXnIYe-138">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;whiteSpace=wrap;fontSize=13;spacing=0;strokeColor=#82b366;strokeOpacity=100;fillOpacity=100;fillColor=#d5e8d4;strokeWidth=1.5;" parent="PSHvP1Z2pyR7IWHXnIYe-137" vertex="1">
+            <mxGeometry width="315" height="165" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-139" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" parent="1" vertex="1">
+          <mxGeometry x="3602" y="340.24" width="64" height="60.24" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-142" value="SQL MI" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Managed_Instance.svg;" parent="1" vertex="1">
+          <mxGeometry x="3438.5" y="118.69000000000004" width="90" height="88.62" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-144" value="&lt;font style=&quot;font-size: 18px&quot; face=&quot;Tahoma&quot;&gt;&lt;b&gt;Resource Group - SISGAC&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="3342" y="386.48" width="246" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-145" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Network_Security_Groups.svg;" parent="1" vertex="1">
+          <mxGeometry x="3342" y="56.480000000000004" width="43" height="52.21" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-150" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PSHvP1Z2pyR7IWHXnIYe-151" target="PSHvP1Z2pyR7IWHXnIYe-149" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Application Gateway" lucidchartObjectId="3JSx4wRks.y-" id="PSHvP1Z2pyR7IWHXnIYe-151">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/Application_Gateway.svg;whiteSpace=wrap;fontSize=13;spacing=0;strokeOpacity=100;fillColor=#7FBA00;strokeWidth=1.5;" parent="1" vertex="1">
+            <mxGeometry x="2634" y="503.98" width="90" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="1rSxI.pHsTpa" id="PSHvP1Z2pyR7IWHXnIYe-156">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#666666;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;;endArrow=block;endFill=1;;" parent="1" source="PSHvP1Z2pyR7IWHXnIYe-149" target="PSHvP1Z2pyR7IWHXnIYe-158" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+              <mxPoint x="3058.57" y="618.98" as="sourcePoint" />
+              <mxPoint x="3147.36" y="613.98" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-157" value="" style="group;dropTarget=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="3326" y="466.48" width="315" height="165" as="geometry" />
+        </mxCell>
+        <UserObject label="" lucidchartObjectId="-mSxpDrQZZVA" id="PSHvP1Z2pyR7IWHXnIYe-158">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;whiteSpace=wrap;fontSize=13;spacing=0;strokeColor=#82b366;strokeOpacity=100;fillOpacity=100;fillColor=#d5e8d4;strokeWidth=1.5;" parent="PSHvP1Z2pyR7IWHXnIYe-157" vertex="1">
+            <mxGeometry width="315" height="165" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-159" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" parent="1" vertex="1">
+          <mxGeometry x="3602" y="646.24" width="60" height="56.48" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-160" value="SQL MI" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Managed_Instance.svg;" parent="1" vertex="1">
+          <mxGeometry x="3438.5" y="513.69" width="90" height="88.62" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-162" value="&lt;font style=&quot;font-size: 18px&quot; face=&quot;Tahoma&quot;&gt;&lt;b&gt;Resource Group - SIRIUS&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="3336" y="682.72" width="256" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-163" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Network_Security_Groups.svg;" parent="1" vertex="1">
+          <mxGeometry x="3342" y="446.48" width="43" height="52.21" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-167" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="2562" y="740.48" width="1120" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-168" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="2792" y="775.48" width="390" height="155" as="geometry" />
+        </mxCell>
+        <UserObject label="DAP" lucidchartObjectId="9_SxEjn7s3GY" id="PSHvP1Z2pyR7IWHXnIYe-169">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/App_Services.svg;whiteSpace=wrap;fontSize=13;spacing=0;strokeOpacity=100;fillColor=#59b4d9;strokeWidth=1.5;" parent="1" vertex="1">
+            <mxGeometry x="2935" y="802.98" width="90" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-170" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PSHvP1Z2pyR7IWHXnIYe-171" target="PSHvP1Z2pyR7IWHXnIYe-168" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Application Gateway" lucidchartObjectId="3JSx4wRks.y-" id="PSHvP1Z2pyR7IWHXnIYe-171">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/Application_Gateway.svg;whiteSpace=wrap;fontSize=13;spacing=0;strokeOpacity=100;fillColor=#7FBA00;strokeWidth=1.5;" parent="1" vertex="1">
+            <mxGeometry x="2634" y="807.98" width="90" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="1rSxI.pHsTpa" id="PSHvP1Z2pyR7IWHXnIYe-172">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#666666;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;;endArrow=block;endFill=1;;" parent="1" source="PSHvP1Z2pyR7IWHXnIYe-168" target="PSHvP1Z2pyR7IWHXnIYe-174" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+              <mxPoint x="3058.57" y="922.98" as="sourcePoint" />
+              <mxPoint x="3147.36" y="917.98" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-173" value="" style="group;dropTarget=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="3326" y="770.48" width="315" height="165" as="geometry" />
+        </mxCell>
+        <UserObject label="" lucidchartObjectId="-mSxpDrQZZVA" id="PSHvP1Z2pyR7IWHXnIYe-174">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;whiteSpace=wrap;fontSize=13;spacing=0;strokeColor=#82b366;strokeOpacity=100;fillOpacity=100;fillColor=#d5e8d4;strokeWidth=1.5;" parent="PSHvP1Z2pyR7IWHXnIYe-173" vertex="1">
+            <mxGeometry width="315" height="165" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-175" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" parent="1" vertex="1">
+          <mxGeometry x="3602" y="950.24" width="60" height="56.48" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-176" value="SQL MI" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Managed_Instance.svg;" parent="1" vertex="1">
+          <mxGeometry x="3438.5" y="817.69" width="90" height="88.62" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-178" value="&lt;font style=&quot;font-size: 18px&quot; face=&quot;Tahoma&quot;&gt;&lt;b&gt;Resource Group - DAP&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="3336" y="986.72" width="256" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-179" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Network_Security_Groups.svg;" parent="1" vertex="1">
+          <mxGeometry x="3342" y="750.48" width="43" height="52.21" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-181" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="2562" y="1046.48" width="1120" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-208" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="PSHvP1Z2pyR7IWHXnIYe-182" target="PSHvP1Z2pyR7IWHXnIYe-206" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3235" y="1310.48" />
+              <mxPoint x="3235" y="1265.48" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-182" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="2792" y="1081.48" width="390" height="305" as="geometry" />
+        </mxCell>
+        <UserObject label="SMS - Frontend" lucidchartObjectId="9_SxEjn7s3GY" id="PSHvP1Z2pyR7IWHXnIYe-183">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/App_Services.svg;whiteSpace=wrap;fontSize=13;spacing=0;strokeOpacity=100;fillColor=#59b4d9;strokeWidth=1.5;" parent="1" vertex="1">
+            <mxGeometry x="3033" y="1096.48" width="90" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-184" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PSHvP1Z2pyR7IWHXnIYe-185" target="PSHvP1Z2pyR7IWHXnIYe-182" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Application Gateway" lucidchartObjectId="3JSx4wRks.y-" id="PSHvP1Z2pyR7IWHXnIYe-185">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/Application_Gateway.svg;whiteSpace=wrap;fontSize=13;spacing=0;strokeOpacity=100;fillColor=#7FBA00;strokeWidth=1.5;" parent="1" vertex="1">
+            <mxGeometry x="2612" y="1188.98" width="90" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-187" value="" style="group;dropTarget=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="3472" y="1086.48" width="169" height="260" as="geometry" />
+        </mxCell>
+        <UserObject label="" lucidchartObjectId="-mSxpDrQZZVA" id="PSHvP1Z2pyR7IWHXnIYe-188">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;whiteSpace=wrap;fontSize=13;spacing=0;strokeColor=#82b366;strokeOpacity=100;fillOpacity=100;fillColor=#d5e8d4;strokeWidth=1.5;" parent="PSHvP1Z2pyR7IWHXnIYe-187" vertex="1">
+            <mxGeometry width="169" height="260" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-190" value="SQL MI" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Managed_Instance.svg;" parent="1" vertex="1">
+          <mxGeometry x="3512" y="1136.4800000000002" width="90" height="88.62" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-193" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Network_Security_Groups.svg;" parent="1" vertex="1">
+          <mxGeometry x="3485.5" y="1066.48" width="43" height="52.21" as="geometry" />
+        </mxCell>
+        <UserObject label="SMS - Backtend" lucidchartObjectId="9_SxEjn7s3GY" id="PSHvP1Z2pyR7IWHXnIYe-197">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/App_Services.svg;whiteSpace=wrap;fontSize=13;spacing=0;strokeOpacity=100;fillColor=#59b4d9;strokeWidth=1.5;" parent="1" vertex="1">
+            <mxGeometry x="3033" y="1246.48" width="90" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-201" value="Public IP" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Public_IP_Prefixes.svg;" parent="1" vertex="1">
+          <mxGeometry x="2861" y="1108.69" width="104" height="80.89" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-202" value="App Service Plan" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Plans.svg;" parent="1" vertex="1">
+          <mxGeometry x="2813" y="1336.48" width="64" height="64" as="geometry" />
+        </mxCell>
+        <UserObject label="Load Balancers" lucidchartObjectId=".3RxnH8H_HWi" id="PSHvP1Z2pyR7IWHXnIYe-203">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/Load_Balancer_feature.svg;whiteSpace=wrap;fontSize=13;spacing=0;strokeOpacity=100;fillColor=#7FBA00;strokeWidth=1.5;" parent="1" vertex="1">
+            <mxGeometry x="2868" y="1246.48" width="90" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-204" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="3352" y="1486.48" width="326" height="56.48000000000002" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-189" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" parent="PSHvP1Z2pyR7IWHXnIYe-204" vertex="1">
+          <mxGeometry x="266" width="60" height="56.48" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-192" value="&lt;font style=&quot;font-size: 18px&quot; face=&quot;Tahoma&quot;&gt;&lt;b&gt;Resource Group - SMS&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="PSHvP1Z2pyR7IWHXnIYe-204" vertex="1">
+          <mxGeometry y="36.47999999999956" width="256" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-207" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PSHvP1Z2pyR7IWHXnIYe-206" target="PSHvP1Z2pyR7IWHXnIYe-205" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-211" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PSHvP1Z2pyR7IWHXnIYe-206" target="PSHvP1Z2pyR7IWHXnIYe-210" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-206" value="Service Bus" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Service_Bus.svg;" parent="1" vertex="1">
+          <mxGeometry x="3287" y="1225.1" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PSHvP1Z2pyR7IWHXnIYe-205" target="PSHvP1Z2pyR7IWHXnIYe-190" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Replication &amp;amp; Archive" lucidchartObjectId="OASx7N48mzOu" id="PSHvP1Z2pyR7IWHXnIYe-205">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/Functions.svg;whiteSpace=wrap;fontSize=13;spacing=0;strokeOpacity=100;fillColor=#FCD116;strokeWidth=1.5;" parent="1" vertex="1">
+            <mxGeometry x="3282" y="1086.48" width="90" height="83" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-213" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PSHvP1Z2pyR7IWHXnIYe-210" target="PSHvP1Z2pyR7IWHXnIYe-212" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Notification" lucidchartObjectId="OASx7N48mzOu" id="PSHvP1Z2pyR7IWHXnIYe-210">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/Functions.svg;whiteSpace=wrap;fontSize=13;spacing=0;strokeOpacity=100;fillColor=#FCD116;strokeWidth=1.5;" parent="1" vertex="1">
+            <mxGeometry x="3236" y="1419.48" width="90" height="83" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-212" value="SendGrid" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/SendGrid_Accounts.svg;" parent="1" vertex="1">
+          <mxGeometry x="3039.5" y="1422.48" width="77" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-214" value="App Service Plan" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Plans.svg;" parent="1" vertex="1">
+          <mxGeometry x="2813" y="892.98" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-215" value="App Service Plan" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Plans.svg;" parent="1" vertex="1">
+          <mxGeometry x="2813" y="588.98" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-216" value="App Service Plan" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Plans.svg;" parent="1" vertex="1">
+          <mxGeometry x="2762" y="326.48" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-217" value="App Service Plan" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Plans.svg;" parent="1" vertex="1">
+          <mxGeometry x="860" y="1466.48" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-218" value="App Service Plan" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Plans.svg;" parent="1" vertex="1">
+          <mxGeometry x="860" y="1072.48" width="64" height="64" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
