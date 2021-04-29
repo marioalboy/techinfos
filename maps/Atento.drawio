@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-04-29T02:22:39.090Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="v_NLGaMiT3T2VXI78NPX" version="14.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-29T02:26:47.870Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="cTHrYtKajTRYCX-G-uUz" version="14.5.4" type="github">
   <diagram id="roDHXFFowf3PpoajVjik" name="Page-1">
     <mxGraphModel dx="2076" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-69" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-69" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="780" y="50" width="1120" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-67" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-67" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="800" y="85" width="451" height="285" as="geometry" />
         </mxCell>
         <UserObject label="" lucidchartObjectId="5ESxPnWPKu9J" id="PSHvP1Z2pyR7IWHXnIYe-63">
@@ -94,11 +94,11 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-19" value="" style="group;dropTarget=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-19" value="" style="group;dropTarget=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1544" y="75" width="315" height="165" as="geometry" />
         </mxCell>
         <UserObject label="" lucidchartObjectId="-mSxpDrQZZVA" id="PSHvP1Z2pyR7IWHXnIYe-20">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;whiteSpace=wrap;fontSize=13;spacing=0;strokeColor=#bfbfbf;strokeOpacity=100;fillOpacity=100;fillColor=#f0f0f0;strokeWidth=1.5;" vertex="1" parent="PSHvP1Z2pyR7IWHXnIYe-19">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;whiteSpace=wrap;fontSize=13;spacing=0;strokeColor=#82b366;strokeOpacity=100;fillOpacity=100;fillColor=#d5e8d4;strokeWidth=1.5;" vertex="1" parent="PSHvP1Z2pyR7IWHXnIYe-19">
             <mxGeometry width="315" height="165" as="geometry" />
           </mxCell>
         </UserObject>
@@ -289,7 +289,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="PSHvP1Z2pyR7IWHXnIYe-65" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" vertex="1" parent="1">
-          <mxGeometry x="168.5" y="490" width="68" height="64" as="geometry" />
+          <mxGeometry x="1820" y="343.76" width="64" height="60.24" as="geometry" />
         </mxCell>
         <mxCell id="PSHvP1Z2pyR7IWHXnIYe-66" value="Private Endopoint" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://user-images.githubusercontent.com/37974296/113137352-59e74380-921c-11eb-97e4-bcaf90528ae7.png;" vertex="1" parent="1">
           <mxGeometry x="840" y="159" width="102" height="102" as="geometry" />
