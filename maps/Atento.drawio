@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-29T11:59:34.173Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="S5la0byNI1JOuRjzO3OX" version="14.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-29T12:12:41.904Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="qJ0pPmWyvW4zH--qhNat" version="14.5.4" type="github">
   <diagram id="roDHXFFowf3PpoajVjik" name="Page-1">
     <mxGraphModel dx="2966" dy="1643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -30,7 +30,7 @@
         </mxCell>
         <UserObject label="ExpressRoute Circuits" lucidchartObjectId="rRRxShrjoOPZ" id="PSHvP1Z2pyR7IWHXnIYe-2">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/Express_Route.svg;whiteSpace=wrap;fontSize=13;spacing=0;strokeOpacity=100;fillColor=#68217a;strokeWidth=1.5;" vertex="1" parent="1">
-            <mxGeometry x="450" y="301.39" width="145" height="88.61" as="geometry" />
+            <mxGeometry x="450" y="380" width="145" height="88.61" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="uSRxXzz2~Y7R" id="PSHvP1Z2pyR7IWHXnIYe-3">
@@ -52,7 +52,7 @@
         </mxCell>
         <UserObject label="Active Directory" lucidchartObjectId="uTRxvJ6UNbEj" id="PSHvP1Z2pyR7IWHXnIYe-6">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/Active_Directory.svg;whiteSpace=wrap;fontSize=13;spacing=0;strokeOpacity=100;fillColor=#59B4D9;strokeWidth=1.5;" vertex="1" parent="1">
-            <mxGeometry x="477.5" y="502.21" width="90" height="90" as="geometry" />
+            <mxGeometry x="477.5" y="580.8199999999999" width="90" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="wTRxuXhBBJkC" id="PSHvP1Z2pyR7IWHXnIYe-7">
@@ -114,35 +114,23 @@
         </UserObject>
         <UserObject label="Usuário" lucidchartObjectId="5QSxRVj2VYeq" id="PSHvP1Z2pyR7IWHXnIYe-37">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/Person.svg;whiteSpace=wrap;fontSize=13;spacing=0;strokeOpacity=100;fillColor=#59b4d9;strokeWidth=1.5;" vertex="1" parent="1">
-            <mxGeometry x="290" y="1125" width="67" height="90" as="geometry" />
+            <mxGeometry x="298" y="1320" width="67" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="DNS Zones" lucidchartObjectId="1SSxTwhLukIB" id="PSHvP1Z2pyR7IWHXnIYe-38">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/DNS.svg;whiteSpace=wrap;fontSize=13;spacing=0;strokeOpacity=100;fillColor=#0072C6;strokeWidth=1.5;" vertex="1" parent="1">
-            <mxGeometry x="477.5" y="1155" width="90" height="90" as="geometry" />
+            <mxGeometry x="478.5" y="1434" width="90" height="90" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PSHvP1Z2pyR7IWHXnIYe-39" target="PSHvP1Z2pyR7IWHXnIYe-47">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="718" y="990" />
-              <mxPoint x="718" y="940" />
-              <mxPoint x="897" y="940" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PSHvP1Z2pyR7IWHXnIYe-39" target="PSHvP1Z2pyR7IWHXnIYe-132">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PSHvP1Z2pyR7IWHXnIYe-39" target="PSHvP1Z2pyR7IWHXnIYe-151">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="682" y="1390" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="680" y="990" />
-              <mxPoint x="680" y="1406" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="PSHvP1Z2pyR7IWHXnIYe-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PSHvP1Z2pyR7IWHXnIYe-39" target="PSHvP1Z2pyR7IWHXnIYe-148">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Internet" lucidchartObjectId="0TSxW7d3FtOt" id="PSHvP1Z2pyR7IWHXnIYe-39">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;verticalLabelPosition=bottom;verticalAlign=top;strokeColor=none;shape=mxgraph.mscae.enterprise.internet;whiteSpace=wrap;fontSize=13;spacing=0;strokeOpacity=100;fillColor=#00188f;strokeWidth=1.5;" vertex="1" parent="1">
-            <mxGeometry x="462.5" y="949" width="122" height="81" as="geometry" />
+            <mxGeometry x="462.5" y="1169" width="122" height="81" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="nUSxDgb3Xirq" id="PSHvP1Z2pyR7IWHXnIYe-40">
@@ -301,7 +289,7 @@
           <mxGeometry x="1031" y="840" width="43" height="52.21" as="geometry" />
         </mxCell>
         <mxCell id="PSHvP1Z2pyR7IWHXnIYe-144" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Resource Group - SISGAC&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1510" y="1170" width="296" height="20" as="geometry" />
+          <mxGeometry x="1560" y="1170" width="246" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PSHvP1Z2pyR7IWHXnIYe-145" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Network_Security_Groups.svg;" vertex="1" parent="1">
           <mxGeometry x="1560" y="840" width="43" height="52.21" as="geometry" />
@@ -341,7 +329,7 @@
           <mxGeometry x="1031" y="1230" width="43" height="52.21" as="geometry" />
         </mxCell>
         <mxCell id="PSHvP1Z2pyR7IWHXnIYe-162" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Resource Group - SIRIUS&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1510" y="1560" width="296" height="20" as="geometry" />
+          <mxGeometry x="1550" y="1560" width="256" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PSHvP1Z2pyR7IWHXnIYe-163" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Network_Security_Groups.svg;" vertex="1" parent="1">
           <mxGeometry x="1560" y="1230" width="43" height="52.21" as="geometry" />
