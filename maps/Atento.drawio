@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-29T02:28:54.514Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="yXYCz56YqGa7trYEX1bP" version="14.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-29T02:31:16.763Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="d4TLt2qg9dRKuocH9BIt" version="14.5.4" type="github">
   <diagram id="roDHXFFowf3PpoajVjik" name="Page-1">
     <mxGraphModel dx="2595" dy="1438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,7 +51,7 @@
         </UserObject>
         <UserObject label="DNS Private Zones" lucidchartObjectId="OURx175.Mmyq" id="PSHvP1Z2pyR7IWHXnIYe-8">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/DNS_Private_Zones.svg;whiteSpace=wrap;fontSize=13;spacing=0;strokeOpacity=100;fillColor=#0072C6;strokeWidth=1.5;" vertex="1" parent="1">
-            <mxGeometry x="465" y="120" width="90" height="90" as="geometry" />
+            <mxGeometry x="457.5" y="102" width="105" height="105" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="SURx1GZ31G83" id="PSHvP1Z2pyR7IWHXnIYe-9">
@@ -128,7 +128,10 @@
         <UserObject label="" lucidchartObjectId="8CSxFCYjAXKv" id="PSHvP1Z2pyR7IWHXnIYe-28">
           <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#666666;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;;endArrow=block;endFill=1;;exitX=0.751;exitY=0.5;exitPerimeter=0;entryX=-0.001;entryY=0.5;entryPerimeter=0;" edge="1" parent="1" source="PSHvP1Z2pyR7IWHXnIYe-2">
             <mxGeometry width="100" height="100" relative="1" as="geometry">
-              <Array as="points" />
+              <Array as="points">
+                <mxPoint x="680" y="343" />
+                <mxPoint x="680" y="638" />
+              </Array>
               <mxPoint x="704.4299999999998" y="637.5" as="targetPoint" />
             </mxGeometry>
           </mxCell>
