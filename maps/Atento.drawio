@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-29T12:12:41.904Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="qJ0pPmWyvW4zH--qhNat" version="14.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-29T12:22:54.674Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="TRIp-kiEsW1GmRhc1Amo" version="14.5.4" type="github">
   <diagram id="roDHXFFowf3PpoajVjik" name="Page-1">
     <mxGraphModel dx="2966" dy="1643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
         </UserObject>
         <UserObject label="" lucidchartObjectId="uSRxXzz2~Y7R" id="PSHvP1Z2pyR7IWHXnIYe-3">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/b8b497b7-2d40-4230-9ea2-1f322d1f7a69/content;imageAspect=0;" vertex="1" parent="1">
-            <mxGeometry x="110" y="150" width="255" height="49" as="geometry" />
+            <mxGeometry x="120" y="185.5" width="255" height="49" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="FSRxvxp~Yti4" id="PSHvP1Z2pyR7IWHXnIYe-4">
@@ -47,7 +47,7 @@
         </UserObject>
         <mxCell id="PSHvP1Z2pyR7IWHXnIYe-5" value="Link Privado" style="text;html=1;resizable=0;labelBackgroundColor=#ffffff;align=center;verticalAlign=middle;fontColor=#000000;;fontSize=13;" vertex="1" parent="PSHvP1Z2pyR7IWHXnIYe-4">
           <mxGeometry x="-0.14727707213943486" relative="1" as="geometry">
-            <mxPoint y="-75" as="offset" />
+            <mxPoint x="-2.48" y="-45.93" as="offset" />
           </mxGeometry>
         </mxCell>
         <UserObject label="Active Directory" lucidchartObjectId="uTRxvJ6UNbEj" id="PSHvP1Z2pyR7IWHXnIYe-6">
@@ -87,7 +87,10 @@
         <UserObject label="" lucidchartObjectId="nzSx0cT5nNfU" id="PSHvP1Z2pyR7IWHXnIYe-16">
           <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#666666;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;;endArrow=block;endFill=1;;exitX=0.996;exitY=0.5;exitPerimeter=0;entryX=-0.002;entryY=0.5;entryPerimeter=0;" edge="1" parent="1" source="PSHvP1Z2pyR7IWHXnIYe-23" target="PSHvP1Z2pyR7IWHXnIYe-20">
             <mxGeometry width="100" height="100" relative="1" as="geometry">
-              <Array as="points" />
+              <Array as="points">
+                <mxPoint x="1470" y="228" />
+                <mxPoint x="1470" y="158" />
+              </Array>
             </mxGeometry>
           </mxCell>
         </UserObject>
@@ -109,7 +112,7 @@
         </UserObject>
         <UserObject label="Azure Function - API" lucidchartObjectId="OASx7N48mzOu" id="PSHvP1Z2pyR7IWHXnIYe-23">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/Functions.svg;whiteSpace=wrap;fontSize=13;spacing=0;strokeOpacity=100;fillColor=#FCD116;strokeWidth=1.5;" vertex="1" parent="1">
-            <mxGeometry x="1365" y="186" width="90" height="83" as="geometry" />
+            <mxGeometry x="1331" y="186" width="90" height="83" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Usuário" lucidchartObjectId="5QSxRVj2VYeq" id="PSHvP1Z2pyR7IWHXnIYe-37">
@@ -212,7 +215,10 @@
         <UserObject label="" lucidchartObjectId="1rSxI.pHsTpa" id="PSHvP1Z2pyR7IWHXnIYe-86">
           <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#666666;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;;endArrow=block;endFill=1;;" edge="1" parent="1" source="PSHvP1Z2pyR7IWHXnIYe-82" target="PSHvP1Z2pyR7IWHXnIYe-88">
             <mxGeometry width="100" height="100" relative="1" as="geometry">
-              <Array as="points" />
+              <Array as="points">
+                <mxPoint x="1470" y="618" />
+                <mxPoint x="1470" y="548" />
+              </Array>
               <mxPoint x="1276.5700000000002" y="622.5" as="sourcePoint" />
               <mxPoint x="1365.3600000000001" y="617.5" as="targetPoint" />
             </mxGeometry>
